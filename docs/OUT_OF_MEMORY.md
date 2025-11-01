@@ -31,7 +31,7 @@ TOTAL NEEDED:       18-27 GB
 
 GPU HAS:            16 GB
                    ──────────
-SHORTFALL:          2-11 GB  ❌
+SHORTFALL:          2-11 GB
 ```
 
 ---
